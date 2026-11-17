@@ -1,0 +1,919 @@
+{
+  "name": "multi-page-table",
+  "description": "One logical table that continues on page 2 with a repeated header row.",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "width": 595,
+      "height": 842,
+      "items": [
+        {
+          "id": "p1-t52",
+          "str": "ID",
+          "x0": 76,
+          "x1": 86.4,
+          "y0": 586.96,
+          "y1": 596.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t53",
+          "str": "Description",
+          "x0": 146,
+          "x1": 203.20000000000002,
+          "y0": 586.96,
+          "y1": 596.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t54",
+          "str": "Amount",
+          "x0": 452.8,
+          "x1": 484,
+          "y0": 586.96,
+          "y1": 596.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t55",
+          "str": "001",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 608.96,
+          "y1": 618.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t56",
+          "str": "Consulting",
+          "x0": 146,
+          "x1": 198,
+          "y0": 608.96,
+          "y1": 618.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t57",
+          "str": "1,000.00",
+          "x0": 442.4,
+          "x1": 484,
+          "y0": 608.96,
+          "y1": 618.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t58",
+          "str": "002",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 630.96,
+          "y1": 640.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t59",
+          "str": "Hosting",
+          "x0": 146,
+          "x1": 182.4,
+          "y0": 630.96,
+          "y1": 640.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t60",
+          "str": "250.00",
+          "x0": 452.8,
+          "x1": 484,
+          "y0": 630.96,
+          "y1": 640.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t61",
+          "str": "003",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 652.96,
+          "y1": 662.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t62",
+          "str": "Licences",
+          "x0": 146,
+          "x1": 187.6,
+          "y0": 652.96,
+          "y1": 662.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t63",
+          "str": "3,400.00",
+          "x0": 442.4,
+          "x1": 484,
+          "y0": 652.96,
+          "y1": 662.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t64",
+          "str": "004",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 674.96,
+          "y1": 684.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t65",
+          "str": "Support",
+          "x0": 146,
+          "x1": 182.4,
+          "y0": 674.96,
+          "y1": 684.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t66",
+          "str": "800.00",
+          "x0": 452.8,
+          "x1": 484,
+          "y0": 674.96,
+          "y1": 684.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t67",
+          "str": "005",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 696.96,
+          "y1": 706.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t68",
+          "str": "Training",
+          "x0": 146,
+          "x1": 187.6,
+          "y0": 696.96,
+          "y1": 706.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t69",
+          "str": "1,500.00",
+          "x0": 442.4,
+          "x1": 484,
+          "y0": 696.96,
+          "y1": 706.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        }
+      ],
+      "rules": [
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 580,
+          "y1": 580,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 602,
+          "y1": 602,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 624,
+          "y1": 624,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 646,
+          "y1": 646,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 668,
+          "y1": 668,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 690,
+          "y1": 690,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 712,
+          "y1": 712,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 580,
+          "y1": 602,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 580,
+          "y1": 602,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 580,
+          "y1": 602,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 580,
+          "y1": 602,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 602,
+          "y1": 624,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 602,
+          "y1": 624,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 602,
+          "y1": 624,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 602,
+          "y1": 624,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 624,
+          "y1": 646,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 624,
+          "y1": 646,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 624,
+          "y1": 646,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 624,
+          "y1": 646,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 646,
+          "y1": 668,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 646,
+          "y1": 668,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 646,
+          "y1": 668,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 646,
+          "y1": 668,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 668,
+          "y1": 690,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 668,
+          "y1": 690,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 668,
+          "y1": 690,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 668,
+          "y1": 690,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 690,
+          "y1": 712,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 690,
+          "y1": 712,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 690,
+          "y1": 712,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 690,
+          "y1": 712,
+          "thickness": 0.5
+        }
+      ],
+      "images": [],
+      "charCount": 110,
+      "looksScanned": false
+    },
+    {
+      "pageNumber": 2,
+      "width": 595,
+      "height": 842,
+      "items": [
+        {
+          "id": "p2-t70",
+          "str": "ID",
+          "x0": 76,
+          "x1": 86.4,
+          "y0": 66.96000000000001,
+          "y1": 76.96000000000001,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p2-t71",
+          "str": "Description",
+          "x0": 146,
+          "x1": 203.20000000000002,
+          "y0": 66.96000000000001,
+          "y1": 76.96000000000001,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p2-t72",
+          "str": "Amount",
+          "x0": 452.8,
+          "x1": 484,
+          "y0": 66.96000000000001,
+          "y1": 76.96000000000001,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p2-t73",
+          "str": "006",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 88.96000000000001,
+          "y1": 98.96000000000001,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t74",
+          "str": "Travel",
+          "x0": 146,
+          "x1": 177.2,
+          "y0": 88.96000000000001,
+          "y1": 98.96000000000001,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t75",
+          "str": "420.50",
+          "x0": 452.8,
+          "x1": 484,
+          "y0": 88.96000000000001,
+          "y1": 98.96000000000001,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t76",
+          "str": "007",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 110.96000000000001,
+          "y1": 120.96000000000001,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t77",
+          "str": "Equipment",
+          "x0": 146,
+          "x1": 192.8,
+          "y0": 110.96000000000001,
+          "y1": 120.96000000000001,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t78",
+          "str": "2,100.00",
+          "x0": 442.4,
+          "x1": 484,
+          "y0": 110.96000000000001,
+          "y1": 120.96000000000001,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t79",
+          "str": "008",
+          "x0": 76,
+          "x1": 91.6,
+          "y0": 132.96,
+          "y1": 142.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t80",
+          "str": "Misc",
+          "x0": 146,
+          "x1": 166.8,
+          "y0": 132.96,
+          "y1": 142.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p2-t81",
+          "str": "75.00",
+          "x0": 458,
+          "x1": 484,
+          "y0": 132.96,
+          "y1": 142.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        }
+      ],
+      "rules": [
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 60,
+          "y1": 60,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 82,
+          "y1": 82,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 104,
+          "y1": 104,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 126,
+          "y1": 126,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 70,
+          "x1": 490,
+          "y0": 148,
+          "y1": 148,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 60,
+          "y1": 82,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 60,
+          "y1": 82,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 60,
+          "y1": 82,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 60,
+          "y1": 82,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 82,
+          "y1": 104,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 82,
+          "y1": 104,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 82,
+          "y1": 104,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 82,
+          "y1": 104,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 104,
+          "y1": 126,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 104,
+          "y1": 126,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 104,
+          "y1": 126,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 104,
+          "y1": 126,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 70,
+          "x1": 70,
+          "y0": 126,
+          "y1": 148,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 140,
+          "x1": 140,
+          "y0": 126,
+          "y1": 148,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 370,
+          "x1": 370,
+          "y0": 126,
+          "y1": 148,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 490,
+          "x1": 490,
+          "y0": 126,
+          "y1": 148,
+          "thickness": 0.5
+        }
+      ],
+      "images": [],
+      "charCount": 66,
+      "looksScanned": false
+    }
+  ],
+  "expected": {
+    "tables": [
+      {
+        "page": 1,
+        "header": [
+          "ID",
+          "Description",
+          "Amount"
+        ],
+        "rows": [
+          [
+            "001",
+            "Consulting",
+            "1,000.00"
+          ],
+          [
+            "002",
+            "Hosting",
+            "250.00"
+          ],
+          [
+            "003",
+            "Licences",
+            "3,400.00"
+          ],
+          [
+            "004",
+            "Support",
+            "800.00"
+          ],
+          [
+            "005",
+            "Training",
+            "1,500.00"
+          ]
+        ]
+      },
+      {
+        "page": 2,
+        "header": [
+          "ID",
+          "Description",
+          "Amount"
+        ],
+        "rows": [
+          [
+            "006",
+            "Travel",
+            "420.50"
+          ],
+          [
+            "007",
+            "Equipment",
+            "2,100.00"
+          ],
+          [
+            "008",
+            "Misc",
+            "75.00"
+          ]
+        ]
+      }
+    ],
+    "merged": {
+      "header": [
+        "ID",
+        "Description",
+        "Amount"
+      ],
+      "rows": [
+        [
+          "001",
+          "Consulting",
+          "1,000.00"
+        ],
+        [
+          "002",
+          "Hosting",
+          "250.00"
+        ],
+        [
+          "003",
+          "Licences",
+          "3,400.00"
+        ],
+        [
+          "004",
+          "Support",
+          "800.00"
+        ],
+        [
+          "005",
+          "Training",
+          "1,500.00"
+        ],
+        [
+          "006",
+          "Travel",
+          "420.50"
+        ],
+        [
+          "007",
+          "Equipment",
+          "2,100.00"
+        ],
+        [
+          "008",
+          "Misc",
+          "75.00"
+        ]
+      ]
+    }
+  }
+}

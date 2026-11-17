@@ -1,0 +1,363 @@
+{
+  "name": "bordered-merged-cells",
+  "description": "Bordered table whose first row is a single merged cell spanning all columns.",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "width": 595,
+      "height": 842,
+      "items": [
+        {
+          "id": "p1-t22",
+          "str": "Quarterly results",
+          "x0": 66,
+          "x1": 154.40000000000003,
+          "y0": 146.96,
+          "y1": 156.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t23",
+          "str": "Region",
+          "x0": 66,
+          "x1": 97.2,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t24",
+          "str": "Q1",
+          "x0": 253.6,
+          "x1": 264,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t25",
+          "str": "Q2",
+          "x0": 343.6,
+          "x1": 354,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t26",
+          "str": "Q3",
+          "x0": 433.6,
+          "x1": 444,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t27",
+          "str": "North",
+          "x0": 66,
+          "x1": 92,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t28",
+          "str": "10",
+          "x0": 253.6,
+          "x1": 264,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t29",
+          "str": "12",
+          "x0": 343.6,
+          "x1": 354,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t30",
+          "str": "14",
+          "x0": 433.6,
+          "x1": 444,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t31",
+          "str": "South",
+          "x0": 66,
+          "x1": 92,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t32",
+          "str": "7",
+          "x0": 258.8,
+          "x1": 264,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t33",
+          "str": "9",
+          "x0": 348.8,
+          "x1": 354,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t34",
+          "str": "11",
+          "x0": 433.6,
+          "x1": 444,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        }
+      ],
+      "rules": [
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 450,
+          "y0": 140,
+          "y1": 140,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 450,
+          "y0": 162,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 450,
+          "y0": 184,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 450,
+          "y0": 206,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 450,
+          "y0": 228,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 450,
+          "x1": 450,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 180,
+          "x1": 180,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 270,
+          "x1": 270,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 360,
+          "x1": 360,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 450,
+          "x1": 450,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 180,
+          "x1": 180,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 270,
+          "x1": 270,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 360,
+          "x1": 360,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 450,
+          "x1": 450,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 180,
+          "x1": 180,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 270,
+          "x1": 270,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 360,
+          "x1": 360,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 450,
+          "x1": 450,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        }
+      ],
+      "images": [],
+      "charCount": 49,
+      "looksScanned": false
+    }
+  ],
+  "expected": {
+    "tables": [
+      {
+        "page": 1,
+        "source": "bordered",
+        "merged": {
+          "row": 0,
+          "col": 0,
+          "colSpan": 4
+        }
+      }
+    ]
+  }
+}

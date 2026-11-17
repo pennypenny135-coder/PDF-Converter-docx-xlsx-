@@ -1,0 +1,256 @@
+{
+  "name": "borderless-aligned-table",
+  "description": "Borderless table with mixed Chinese/English text, a right-aligned numeric column.",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "width": 595,
+      "height": 842,
+      "items": [
+        {
+          "id": "p1-t35",
+          "str": "姓名 Name",
+          "x0": 76,
+          "x1": 122,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t36",
+          "str": "部门 Department",
+          "x0": 226,
+          "x1": 303.20000000000005,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t37",
+          "str": "工资 Salary",
+          "x0": 447.59999999999997,
+          "x1": 504,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t38",
+          "str": "张伟",
+          "x0": 76,
+          "x1": 96,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t39",
+          "str": "研发部 R&D",
+          "x0": 226,
+          "x1": 276.8,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t40",
+          "str": "12,500",
+          "x0": 472.8,
+          "x1": 504,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t41",
+          "str": "Alice Chen",
+          "x0": 76,
+          "x1": 128,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t42",
+          "str": "市场部 Marketing",
+          "x0": 226,
+          "x1": 308,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t43",
+          "str": "9,800",
+          "x0": 478,
+          "x1": 504,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t44",
+          "str": "李娜",
+          "x0": 76,
+          "x1": 96,
+          "y0": 265.6,
+          "y1": 275.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t45",
+          "str": "财务部 Finance",
+          "x0": 226,
+          "x1": 297.6,
+          "y0": 265.6,
+          "y1": 275.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t46",
+          "str": "10,200",
+          "x0": 472.8,
+          "x1": 504,
+          "y0": 265.6,
+          "y1": 275.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t47",
+          "str": "Bob Smith",
+          "x0": 76,
+          "x1": 122.80000000000001,
+          "y0": 285.6,
+          "y1": 295.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t48",
+          "str": "人事部 HR",
+          "x0": 226,
+          "x1": 271.6,
+          "y0": 285.6,
+          "y1": 295.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t49",
+          "str": "8,700",
+          "x0": 478,
+          "x1": 504,
+          "y0": 285.6,
+          "y1": 295.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t50",
+          "str": "This paragraph precedes the table and must not be detected as one.",
+          "x0": 70,
+          "x1": 413.1999999999996,
+          "y0": 112,
+          "y1": 122,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t51",
+          "str": "It has two lines of ordinary running text that stay together.",
+          "x0": 70,
+          "x1": 387.19999999999965,
+          "y0": 126,
+          "y1": 136,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        }
+      ],
+      "rules": [],
+      "images": [],
+      "charCount": 238,
+      "looksScanned": false
+    }
+  ],
+  "expected": {
+    "tables": [
+      {
+        "page": 1,
+        "source": "borderless",
+        "header": [
+          "姓名 Name",
+          "部门 Department",
+          "工资 Salary"
+        ],
+        "rows": [
+          [
+            "张伟",
+            "研发部 R&D",
+            "12,500"
+          ],
+          [
+            "Alice Chen",
+            "市场部 Marketing",
+            "9,800"
+          ],
+          [
+            "李娜",
+            "财务部 Finance",
+            "10,200"
+          ],
+          [
+            "Bob Smith",
+            "人事部 HR",
+            "8,700"
+          ]
+        ]
+      }
+    ]
+  }
+}

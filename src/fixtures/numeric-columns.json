@@ -1,0 +1,303 @@
+{
+  "name": "numeric-columns",
+  "description": "Numeric columns with thousands separators, decimals, parentheses and minus signs.",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "width": 595,
+      "height": 842,
+      "items": [
+        {
+          "id": "p1-t82",
+          "str": "Item",
+          "x0": 76,
+          "x1": 96.8,
+          "y0": 165.6,
+          "y1": 175.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t83",
+          "str": "Qty",
+          "x0": 288.4,
+          "x1": 304,
+          "y0": 165.6,
+          "y1": 175.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t84",
+          "str": "Unit price",
+          "x0": 362,
+          "x1": 414,
+          "y0": 165.6,
+          "y1": 175.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t85",
+          "str": "Change",
+          "x0": 482.8,
+          "x1": 514,
+          "y0": 165.6,
+          "y1": 175.6,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t86",
+          "str": "Bolts",
+          "x0": 76,
+          "x1": 102,
+          "y0": 185.6,
+          "y1": 195.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t87",
+          "str": "1,200",
+          "x0": 278,
+          "x1": 304,
+          "y0": 185.6,
+          "y1": 195.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t88",
+          "str": "0.35",
+          "x0": 393.2,
+          "x1": 414,
+          "y0": 185.6,
+          "y1": 195.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t89",
+          "str": "-5.2",
+          "x0": 493.2,
+          "x1": 514,
+          "y0": 185.6,
+          "y1": 195.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t90",
+          "str": "Nuts",
+          "x0": 76,
+          "x1": 96.8,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t91",
+          "str": "980",
+          "x0": 288.4,
+          "x1": 304,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t92",
+          "str": "0.20",
+          "x0": 393.2,
+          "x1": 414,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t93",
+          "str": "(3.1)",
+          "x0": 488,
+          "x1": 514,
+          "y0": 205.6,
+          "y1": 215.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t94",
+          "str": "Washers",
+          "x0": 76,
+          "x1": 112.4,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t95",
+          "str": "15,000",
+          "x0": 272.8,
+          "x1": 304,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t96",
+          "str": "0.05",
+          "x0": 393.2,
+          "x1": 414,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t97",
+          "str": "12.75",
+          "x0": 488,
+          "x1": 514,
+          "y0": 225.6,
+          "y1": 235.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t98",
+          "str": "Screws",
+          "x0": 76,
+          "x1": 107.2,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t99",
+          "str": "42",
+          "x0": 293.6,
+          "x1": 304,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t100",
+          "str": "1.10",
+          "x0": 393.2,
+          "x1": 414,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t101",
+          "str": "−0.4",
+          "x0": 493.2,
+          "x1": 514,
+          "y0": 245.6,
+          "y1": 255.6,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        }
+      ],
+      "rules": [],
+      "images": [],
+      "charCount": 95,
+      "looksScanned": false
+    }
+  ],
+  "expected": {
+    "tables": [
+      {
+        "page": 1,
+        "source": "borderless",
+        "header": [
+          "Item",
+          "Qty",
+          "Unit price",
+          "Change"
+        ],
+        "rows": [
+          [
+            "Bolts",
+            "1,200",
+            "0.35",
+            "-5.2"
+          ],
+          [
+            "Nuts",
+            "980",
+            "0.20",
+            "(3.1)"
+          ],
+          [
+            "Washers",
+            "15,000",
+            "0.05",
+            "12.75"
+          ],
+          [
+            "Screws",
+            "42",
+            "1.10",
+            "−0.4"
+          ]
+        ]
+      }
+    ],
+    "columnTypes": [
+      "text",
+      "number",
+      "number",
+      "number"
+    ]
+  }
+}

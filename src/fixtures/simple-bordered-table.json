@@ -1,0 +1,570 @@
+{
+  "name": "simple-bordered-table",
+  "description": "A 4×5 table with full drawn borders, a title above and a note below.",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "width": 595,
+      "height": 842,
+      "items": [
+        {
+          "id": "p1-t0",
+          "str": "Product",
+          "x0": 66,
+          "x1": 102.4,
+          "y0": 146.96,
+          "y1": 156.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t1",
+          "str": "Region",
+          "x0": 216,
+          "x1": 247.2,
+          "y0": 146.96,
+          "y1": 156.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t2",
+          "str": "Units",
+          "x0": 378,
+          "x1": 404,
+          "y0": 146.96,
+          "y1": 156.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t3",
+          "str": "Status",
+          "x0": 416,
+          "x1": 447.2,
+          "y0": 146.96,
+          "y1": 156.96,
+          "fontSize": 10,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t4",
+          "str": "Widget A",
+          "x0": 66,
+          "x1": 107.6,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t5",
+          "str": "North",
+          "x0": 216,
+          "x1": 242,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t6",
+          "str": "120",
+          "x0": 388.4,
+          "x1": 404,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t7",
+          "str": "Shipped",
+          "x0": 416,
+          "x1": 452.4,
+          "y0": 168.96,
+          "y1": 178.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t8",
+          "str": "Widget B",
+          "x0": 66,
+          "x1": 107.6,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t9",
+          "str": "South",
+          "x0": 216,
+          "x1": 242,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t10",
+          "str": "85",
+          "x0": 393.6,
+          "x1": 404,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t11",
+          "str": "Pending",
+          "x0": 416,
+          "x1": 452.4,
+          "y0": 190.96,
+          "y1": 200.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t12",
+          "str": "Gadget C",
+          "x0": 66,
+          "x1": 107.6,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t13",
+          "str": "East",
+          "x0": 216,
+          "x1": 236.8,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t14",
+          "str": "40",
+          "x0": 393.6,
+          "x1": 404,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t15",
+          "str": "Shipped",
+          "x0": 416,
+          "x1": 452.4,
+          "y0": 212.96,
+          "y1": 222.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t16",
+          "str": "Gadget D",
+          "x0": 66,
+          "x1": 107.6,
+          "y0": 234.96,
+          "y1": 244.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t17",
+          "str": "West",
+          "x0": 216,
+          "x1": 236.8,
+          "y0": 234.96,
+          "y1": 244.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t18",
+          "str": "17",
+          "x0": 393.6,
+          "x1": 404,
+          "y0": 234.96,
+          "y1": 244.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t19",
+          "str": "Cancelled",
+          "x0": 416,
+          "x1": 462.8,
+          "y0": 234.96,
+          "y1": 244.96,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        },
+        {
+          "id": "p1-t20",
+          "str": "Sales overview",
+          "x0": 60,
+          "x1": 191.04,
+          "y0": 85.6,
+          "y1": 103.6,
+          "fontSize": 18,
+          "bold": true,
+          "italic": false,
+          "fontName": "Helvetica-Bold"
+        },
+        {
+          "id": "p1-t21",
+          "str": "Figures are preliminary.",
+          "x0": 60,
+          "x1": 184.80000000000004,
+          "y0": 272,
+          "y1": 282,
+          "fontSize": 10,
+          "bold": false,
+          "italic": false,
+          "fontName": "Helvetica"
+        }
+      ],
+      "rules": [
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 540,
+          "y0": 140,
+          "y1": 140,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 540,
+          "y0": 162,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 540,
+          "y0": 184,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 540,
+          "y0": 206,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 540,
+          "y0": 228,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "h",
+          "x0": 60,
+          "x1": 540,
+          "y0": 250,
+          "y1": 250,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 210,
+          "x1": 210,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 320,
+          "x1": 320,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 410,
+          "x1": 410,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 540,
+          "x1": 540,
+          "y0": 140,
+          "y1": 162,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 210,
+          "x1": 210,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 320,
+          "x1": 320,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 410,
+          "x1": 410,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 540,
+          "x1": 540,
+          "y0": 162,
+          "y1": 184,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 210,
+          "x1": 210,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 320,
+          "x1": 320,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 410,
+          "x1": 410,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 540,
+          "x1": 540,
+          "y0": 184,
+          "y1": 206,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 210,
+          "x1": 210,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 320,
+          "x1": 320,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 410,
+          "x1": 410,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 540,
+          "x1": 540,
+          "y0": 206,
+          "y1": 228,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 60,
+          "x1": 60,
+          "y0": 228,
+          "y1": 250,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 210,
+          "x1": 210,
+          "y0": 228,
+          "y1": 250,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 320,
+          "x1": 320,
+          "y0": 228,
+          "y1": 250,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 410,
+          "x1": 410,
+          "y0": 228,
+          "y1": 250,
+          "thickness": 0.5
+        },
+        {
+          "orientation": "v",
+          "x0": 540,
+          "x1": 540,
+          "y0": 228,
+          "y1": 250,
+          "thickness": 0.5
+        }
+      ],
+      "images": [],
+      "charCount": 151,
+      "looksScanned": false
+    }
+  ],
+  "expected": {
+    "tables": [
+      {
+        "page": 1,
+        "source": "bordered",
+        "header": [
+          "Product",
+          "Region",
+          "Units",
+          "Status"
+        ],
+        "rows": [
+          [
+            "Widget A",
+            "North",
+            "120",
+            "Shipped"
+          ],
+          [
+            "Widget B",
+            "South",
+            "85",
+            "Pending"
+          ],
+          [
+            "Gadget C",
+            "East",
+            "40",
+            "Shipped"
+          ],
+          [
+            "Gadget D",
+            "West",
+            "17",
+            "Cancelled"
+          ]
+        ]
+      }
+    ]
+  }
+}
